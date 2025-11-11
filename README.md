@@ -1,2 +1,2 @@
 # thatsmileapp
-Empty stibb repo
+Empty stubb repo
