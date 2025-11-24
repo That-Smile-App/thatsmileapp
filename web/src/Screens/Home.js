@@ -74,7 +74,7 @@ function Home() {
           <div className="container-box">
             <div className="section-two">
               <p className="middle-header">
-                Science-based Benefits of Smiling More
+                Science-based Benefits of Smiling More Test
               </p>
               <div className="row column-header ">
                 <div className="col-md-4 pe-sm-0">
