@@ -30,6 +30,8 @@ jobs:
       - name: Build
         working-directory: ./web
         run: npm run build
+        env:
+          CI: false
 
       - name: Upload artifact from /web/build
         uses: actions/upload-pages-artifact@v3
