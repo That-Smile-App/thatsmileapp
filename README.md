@@ -1,2 +1,0 @@
-# thatsmileapp
-Empty stubb repo
