@@ -70,6 +70,31 @@ function Home() {
           </div>
         </div>
 
+        <div className="container-box mt-5 mb-5">
+          <div className="row justify-content-center text-center px-3">
+
+            <p style={{ fontSize: "1.6rem", fontWeight: 700, lineHeight: "1.4" }}>
+              That Smile App™ features Smile Powered™ technology and the Guided Smiling™ experience.
+            </p>
+
+            <p className="mt-3" style={{ fontSize: "1.35rem", lineHeight: "1.6" }}>
+              Our unique Smile Powered™ software lets the power of your smile control the playback
+              of your favorite media, encouraging increased smile time resulting in authentic,
+              science-based benefits of smiling more.
+            </p>
+
+            <p className="mt-3" style={{ fontSize: "1.35rem", lineHeight: "1.6" }}>
+              The Guided Smiling™ experience helps you smile with intention, purpose, and
+              visualization to restore mental and physical well-being.
+            </p>
+
+            <p className="mt-4" style={{ fontSize: "1.8rem", fontWeight: 800 }}>
+              Smile More. Feel Better.™
+            </p>
+
+          </div>
+        </div>
+
         <div style={backgroundStyle} className='background-image'>
           <div className="container-box">
             <div className="section-two">
