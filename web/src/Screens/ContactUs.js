@@ -1,11 +1,9 @@
 import React from 'react';
-import Header from '../Components/Header';
 import '../App.css';
 
 const ContactUs = () => {
   return (
     <>
-      <Header />
       <div
         style={{minHeight: 'calc(100vh - 106px)'}}
         className="gradient-background">

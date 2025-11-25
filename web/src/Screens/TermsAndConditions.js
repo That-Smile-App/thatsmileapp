@@ -1,6 +1,5 @@
 import {useEffect, useState} from 'react';
 import '../App.css';
-import Header from '../Components/Header';
 import axios from 'axios';
 
 function TermsAndConditions() {
@@ -26,7 +25,6 @@ const apiUrl = 'https://smile-app-19915.botics.co/modules/terms-and-conditions/'
 
   return (
     <>
-      <Header />
       <div style={{minHeight: '100vh'}} className="gradient-background">
       
         {loading ? <div style={{paddingTop: "40vh"}}><div className="spinner"></div> </div> : <div class="px-5 pt-5">

@@ -1,6 +1,5 @@
 import {useEffect, useState} from 'react';
 import '../App.css';
-import Header from '../Components/Header';
 import axios from 'axios';
 
 function PrivacyPolicy() {
@@ -26,7 +25,6 @@ const apiUrl = 'https://smile-app-19915.botics.co/modules/privacy-policy/';
 
   return (
     <>
-      <Header />
       <div style={{minHeight: '100vh'}} className="gradient-background">
       {loading ? <div style={{paddingTop: "40vh"}}><div className="spinner"></div> </div> : <div class="px-5 pt-5">
           <div class="col-md-10 privacy-policy  privacy" dangerouslySetInnerHTML={{__html: body}} />

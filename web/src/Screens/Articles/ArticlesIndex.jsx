@@ -30,17 +30,26 @@ const articles = [
 
 export default function ArticlesIndex() {
   return (
-    <div className="container-box mt-5 mb-5">
-      <h1 className="mb-4">Smile Science Articles</h1>
-      <ul style={{ listStyle: "none", padding: 0 }}>
-        {articles.map((a) => (
-          <li key={a.slug} style={{ marginBottom: "1rem" }}>
-            <Link style={{ fontSize: "1.3rem" }} to={`/smilescience/${a.slug}`}>
-              {a.title}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div>
+    <>
+
+
+        <div className="container-box mt-5 mb-5">
+          <h1 className="text-center mb-4">Smile Science Articles</h1>
+
+          <ul style={{ listStyle: "none", paddingLeft: 0 }}>
+            {articles.map((a) => (
+              <li key={a.slug} className="mb-3">
+                <Link
+                  to={`/smilescience/${a.slug}`}
+                  className="common-Text"
+                  style={{ fontSize: "22px" }}
+                >
+                  {a.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+    </>
   );
 }

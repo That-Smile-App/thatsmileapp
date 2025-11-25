@@ -1,6 +1,5 @@
 import React from 'react';
 import logo from '../Images/logos.png';
-import Header from '../Components/Header';
 
 // Styles
 import '../App.css';
@@ -8,7 +7,6 @@ import '../App.css';
 const About = () => {
   return (
     <>
-      <Header />
       <div
         className="gradient-background about-container"
         style={{minHeight: 'calc(100vh - 106px)'}}>

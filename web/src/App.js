@@ -33,6 +33,9 @@ import HowDoesSmilingBoostEnergy from "./Screens/Articles/how-does-smiling-boost
 import HowDoesSmilingHelpUsFeelAtPeace from "./Screens/Articles/how-does-smiling-help-us-feel-at-peace";
 import HowLongDoYouHaveToSmile from "./Screens/Articles/how-long-do-you-have-to-smile-to-receive-health-benefits";
 
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
+
 const basename =
   process.env.NODE_ENV === "production"
     ? process.env.PUBLIC_URL.replace(/https?:\/\/[^/]+/, "")
@@ -41,6 +44,8 @@ const basename =
 function App() {
   return (
     <Router basename={basename}>
+    {/* GLOBAL HEADER */}
+    <Header />
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/TermsAndConditions" element={<TermsAndConditions />} />
@@ -122,6 +127,8 @@ function App() {
           element={<HowLongDoYouHaveToSmile />} />
 
       </Routes>
+      {/* GLOBAL FOOTER */}
+      <Footer />
   </Router>
   );
 }

@@ -3,10 +3,6 @@ import withAutoplay from 'react-awesome-slider/dist/autoplay';
 import AwesomeSlider from 'react-awesome-slider';
 import Carousel from 'react-bootstrap/Carousel';
 
-// Components
-import Header from '../Components/Header';
-import Footer from '../Components/Footer';
-
 // Images
 import landingImage from "../Images/landingImage.png"
 import appStore from "../Images/AppStore.png"
@@ -39,7 +35,6 @@ function Home() {
 
   return (
     <>
-      <Header />
       <div className="gradient-background">
         <div className="container-box main-header">
           <div class="row main-img">
@@ -144,7 +139,6 @@ function Home() {
             </Carousel.Item>
           ))}
         </Carousel>
-        <Footer />
       </div>
     </>
   );
