@@ -1,0 +1,13 @@
+import React from 'react';
+
+export default function IsSmilingContagious() {
+  return (
+    <div className="container-box mt-5 mb-5">
+      <h1>Is Smiling Contagious?</h1>
+      <p>Yes, smiling is contagious!  Smiling is contagious because of the way our brains are wired for social connection through a system of mirror neurons, emotional mimicry, and unconscious empathy. When we see someone smile, our brain automatically encourages us to mirror that smile, often without realizing it.</p><p>Here’s a breakdown of the science behind this phenomenon:</p><p>😄 Why Smiling Is Contagious</p><p>1. Mirror Neurons: Your Brain Copies What It Sees</p><p>Mirror neurons are special brain cells that fire both when you perform an action and when you see someone else perform it.</p><p>When you see someone smile, these neurons simulate the smile in your own brain, often triggering your facial muscles to mimic it.</p><p>📚 Source:
+Rizzolatti & Craighero (2004) – Mirror neuron theory and its role in empathy and imitation.</p><p>2. Emotional Contagion: We Absorb the Feelings of Others</p><p>Emotional contagion is the unconscious tendency to “catch” emotions from people around us.</p><p>Seeing someone smile makes us feel happier, which encourages us to smile back.</p><p>📚 Study:
+Hatfield, Cacioppo, & Rapson (1994) – Emotional expressions can trigger similar emotions in observers through automatic mimicry.</p><p>3. Social Bonding: Smiling Builds Connection</p><p>Smiles are powerful social signals. When we see someone smile, we instinctively want to reciprocate as a way to build trust, harmony, and social cohesion.</p><p>Returning a smile helps establish mutual goodwill, which is essential for healthy relationships.</p><p>📚 Source:
+Keltner, D. (2003) – Expressions of emotion serve as social tools in human interaction.</p><p>4. Evolutionary Psychology: Smiles Signaled Safety</p><p>In early human groups, a smile was a nonverbal sign of friendliness and safety.</p><p>Our brains evolved to respond positively and automatically to smiles to promote cooperation and survival.</p><p>🧠 What Happens in the Brain</p><p>✅ Summary: Why Smiles Spread</p><p>🔑 Keys to Remember</p><p>Smiling is contagious because your brain is designed to mirror and feel the emotions of others. When you see someone smile, your brain lights up, your mood lifts, and you’re likely to smile back—creating a ripple of positivity.</p><p>Want to test it out?  Use That Smile App, then try smiling at three strangers today and notice how many smile back!  Then share That Smile App with a friend.</p>
+    </div>
+  );
+}
