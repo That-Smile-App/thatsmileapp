@@ -33,10 +33,14 @@ import HowDoesSmilingBoostEnergy from "./Screens/Articles/how-does-smiling-boost
 import HowDoesSmilingHelpUsFeelAtPeace from "./Screens/Articles/how-does-smiling-help-us-feel-at-peace";
 import HowLongDoYouHaveToSmile from "./Screens/Articles/how-long-do-you-have-to-smile-to-receive-health-benefits";
 
+const basename =
+  process.env.NODE_ENV === "production"
+    ? process.env.PUBLIC_URL.replace(/https?:\/\/[^/]+/, "")
+    : "";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename={basename}>
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/TermsAndConditions" element={<TermsAndConditions />} />
