@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import insta from '../Images/Vector.svg';
 import linkedIn from '../Images/linkedIN.png';
 import fb from '../Images/fb.png';
+import { Link } from 'react-router-dom';
 
 function Footer() {
   return (
@@ -17,6 +18,9 @@ function Footer() {
             <Nav>
               <Nav.Link href="/" className="common-Text mx-4">
                 Home
+              </Nav.Link>
+              <Nav.Link as={Link} to="/smilescience" className='common-Text mx-4'>
+                Smile Science
               </Nav.Link>
               <Nav.Link href="/TermsAndConditions" className="common-Text mx-4">
                 About

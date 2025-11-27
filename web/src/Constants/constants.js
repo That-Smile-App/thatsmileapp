@@ -15,13 +15,13 @@ export const carouselData = [
     {
       id: 2,
       heading: 'Smile Powered™',
-      subHeading: 'Feel the Power of Your Smile',
+      subHeading: 'Feel the Power of Your Smile™',
       imgSrc: slider2
     },
     {
       id: 3,
       heading: 'Guided Smiling™',
-      subHeading: 'Feel the Calm of Your Smile',
+      subHeading: 'Feel the Calm of Your Smile™',
       imgSrc: slider3
     },
     {

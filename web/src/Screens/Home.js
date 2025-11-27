@@ -118,7 +118,7 @@ function Home() {
 
         <div className="section-three">
           <div className="container-box">
-            <p className="text-more">Smile More. Feel Better™.</p>
+            <p className="text-more">Smile More. Feel Better.™</p>
           </div>
         </div>
 

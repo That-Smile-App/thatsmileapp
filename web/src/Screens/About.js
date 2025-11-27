@@ -20,7 +20,7 @@ const About = () => {
           <div className="mt-3 align-item-center text-center">
             <div className="col-md-12">
               <p className="about-header text-center">
-                Changing your world one smile at a time.
+                Changing <u>your</u> world one smile at a time.
               </p>
             </div>
           </div>

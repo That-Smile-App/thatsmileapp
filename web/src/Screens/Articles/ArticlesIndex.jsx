@@ -35,6 +35,13 @@ export default function ArticlesIndex() {
 
         <div className="container-box mt-5 mb-5">
           <h1 className="text-center mb-4">Smile Science Articles</h1>
+          <div className="container-box mt-5 mb-5">
+            <div className="row justify-content-center text-center px-3">
+                <p style={{ fontSize: "1.6rem", fontWeight: 600, lineHeight: "1.4" }}>
+              Smiling more has the power to change your life.  Explore the science behind the benefits of smiling.
+                </p>
+            </div>
+           </div>
 
           <ul style={{ listStyle: "none", paddingLeft: 0 }}>
             {articles.map((a) => (
@@ -50,6 +57,8 @@ export default function ArticlesIndex() {
             ))}
           </ul>
         </div>
+
+
     </>
   );
 }
