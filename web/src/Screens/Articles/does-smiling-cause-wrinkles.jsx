@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function DoesSmilingCauseWrinkles() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
 
       <h1>Does Smiling Cause Wrinkles?</h1>
 
