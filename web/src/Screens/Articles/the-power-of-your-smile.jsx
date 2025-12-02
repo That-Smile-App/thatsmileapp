@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function ThePowerOfYourSmile() {
   return (
-    <div className="container-box mt-5 mb-5 text-left space-y-6">
+    <div className="container-box mt-5 mb-5 text-left space-y-6 smile-page">
       <h1 className="font-bold text-2xl">The Power of Your Smile</h1>
 
       <p>

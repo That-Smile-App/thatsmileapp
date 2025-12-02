@@ -1,117 +1,165 @@
-/* ---------- GLOBAL PAGE STYLING ---------- */
+/**************************************
+  SMILE PAGE — GLOBAL WRAPPER
+  (All styling is isolated under .smile-page)
+***************************************/
 
-.container-box {
-  line-height: 1.65;
-  font-size: 18px;
-  color: #222;
+.smile-page {
   max-width: 1000px;
   margin: 0 auto;
+  padding: 0 10px;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #222;
 }
 
-/* Headings */
-.container-box h1 {
+/**************************************
+  HEADINGS
+***************************************/
+
+.smile-page h1 {
   font-size: 28px;
-  font-weight: 600;
+  font-weight: 700;
   margin-bottom: 20px;
 }
 
-.container-box h2,
-.container-box h3,
-.container-box h4 {
+.smile-page h2,
+.smile-page h3,
+.smile-page h4 {
   font-weight: 600;
   margin-top: 30px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
-.container-box h2 {
+.smile-page h3 {
   font-size: 22px;
 }
 
-.container-box h3 {
-  font-size: 20px;
-}
-
-.container-box h4 {
+.smile-page h4 {
   font-size: 19px;
 }
 
-/* Paragraphs */
-.container-box p {
-  margin: 12px 0;
+/**************************************
+  PARAGRAPHS & LISTS
+***************************************/
+
+.smile-page p {
+  margin-bottom: 14px;
 }
 
-/* Lists */
-.container-box ul {
-  margin: 10px 0 20px 30px;
+.smile-page ul {
+  margin-left: 22px;
+  margin-bottom: 16px;
 }
 
-.container-box ul li {
+.smile-page ul li {
+  margin-bottom: 6px;
+}
+
+.smile-page ul ul {
+  margin-top: 8px;
   margin-bottom: 8px;
 }
 
-/* HR lines */
-.container-box hr {
-  border: none;
+/**************************************
+  HR DIVIDER
+***************************************/
+
+.smile-page hr {
+  margin: 28px 0;
+  border: 0;
   border-top: 1px solid #ccc;
-  margin: 30px 0;
 }
 
-/* ---------- TABLE STYLING ---------- */
+/**************************************
+  TABLES (Summary sections + Brain tables)
+***************************************/
 
-.container-box table {
+.smile-page table {
   width: 100%;
   border-collapse: collapse;
-  margin: 15px 0 25px;
+  margin: 18px 0;
 }
 
-.container-box table th {
+.smile-page table th {
   text-align: left;
-  font-weight: 600;
+  font-weight: 700;
   padding: 8px 0;
+  border-bottom: 2px solid #ddd;
 }
 
-.container-box table td {
-  padding: 6px 0;
-  vertical-align: top;
+.smile-page table td {
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
 }
 
-/* Optional: add subtle spacing between table rows */
-.container-box table tr td:first-child {
-  width: 35%;
-}
+/**************************************
+  EMOJI SPACING & INLINE ICONS
+***************************************/
 
-/* ---------- SOURCE LABELS ---------- */
-.container-box p strong {
-  font-weight: 600;
-}
-
-.container-box em {
-  font-style: italic;
-}
-
-/* ---------- SPACING FOR EMOJI HEADERS ---------- */
-.container-box h3,
-.container-box h4 {
+.smile-page h2,
+.smile-page h3,
+.smile-page h4 {
   display: flex;
   align-items: center;
   gap: 6px;
 }
 
-/* Optional extra style for emojis */
-.container-box h3::before,
-.container-box h4::before {
-  transform: translateY(1px);
+.smile-page h3::before,
+.smile-page h4::before {
+  /* Prevent emoji jumping on line-height */
+  line-height: 1;
 }
 
-/* ---------- KEYS TO REMEMBER BOX (optional future upgrade) ----------
-You *can* add a highlighted box, but your screenshots do not show one.
-Leaving commented in case you want later. */
-/*
-.keys-box {
-  background: #f9f9f9;
-  border-left: 4px solid #ffbf47;
-  padding: 15px 20px;
-  margin-top: 25px;
-  border-radius: 6px;
+/**************************************
+  SMALL UTILITY SPACING
+***************************************/
+
+.smile-page .mt-3 {
+  margin-top: 1rem;
 }
-*/
+
+.smile-page .mb-3 {
+  margin-bottom: 1rem;
+}
+
+.smile-page strong {
+  font-weight: 700;
+}
+
+
+/**************************************
+  SUPPORT FOR UTILITY CLASSES
+  (text-xl, font-semibold, mt-4)
+***************************************/
+
+/* Matches screenshot heading size (20–22px) */
+.smile-page .text-xl {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+/* Bold weight identical to your h2/h3 styles */
+.smile-page .font-semibold {
+  font-weight: 600;
+}
+
+/* Margin-top consistent with headings */
+.smile-page .mt-4 {
+  margin-top: 24px;
+}
+
+/**************************************
+  EMOJI HEADING FIX FOR <h2 class="text-xl">
+***************************************/
+
+.smile-page .text-xl {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.smile-page .text-xl::before {
+  line-height: 1;
+}

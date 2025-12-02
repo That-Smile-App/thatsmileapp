@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function WhyIsADuchenneSmileMorePowerfulThanOtherSmiles() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>Why is a <u>Duchenne Smile</u> More Powerful than Other Smiles?</h1>
 
       <p>

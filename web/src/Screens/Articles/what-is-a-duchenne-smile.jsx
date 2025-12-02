@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function WhatIsADuchenneSmile() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>What is a Duchenne Smile?</h1>
 
       <p>

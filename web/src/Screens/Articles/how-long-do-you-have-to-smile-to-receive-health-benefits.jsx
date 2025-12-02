@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function HowLongDoYouHaveToSmileToReceiveHealthBenefits() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
 
       <h1>How Long Do You Have to Smile to Receive Health Benefits?</h1>
 

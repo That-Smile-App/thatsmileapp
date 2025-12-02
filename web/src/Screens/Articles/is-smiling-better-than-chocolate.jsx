@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function IsSmilingBetterThanChocolate() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>Is Smiling Better than Chocolate?</h1>
       <p>
         Smiling can <strong>actually be more powerful than chocolate</strong> in some surprising

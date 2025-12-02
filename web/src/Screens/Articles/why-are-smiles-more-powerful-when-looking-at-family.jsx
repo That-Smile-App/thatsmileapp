@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function WhyAreSmilesMorePowerfulWhenLookingAtFamily() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>Why Are Smiles More Powerful When Looking at Family?</h1>
 
       <p>

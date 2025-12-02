@@ -1,8 +1,9 @@
 import React from 'react';
+import "./smile-pages.css";
 
 export default function AreSmilesMoreAttractiveThanMakeup() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>Are Smiles More Attractive than Makeup?</h1>
 
       <p>

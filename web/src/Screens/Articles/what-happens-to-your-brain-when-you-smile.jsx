@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function WhatHappensToYourBrainWhenYouSmile() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>What Happens to Your Brain When You Smile?</h1>
       <p>
         When you <strong>smile</strong>—especially a genuine <strong>smile</strong>—your brain undergoes a

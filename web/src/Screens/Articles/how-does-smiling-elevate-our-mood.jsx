@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function HowDoesSmilingElevateOurMood() {
   return (
-    <div className="container-box mt-5 mb-5" style={{ lineHeight: '1.7', fontSize: '18px' }}>
+    <div className="container-box mt-5 mb-5 smile-page" style={{ lineHeight: '1.7', fontSize: '18px' }}>
       <h1 className="mb-4">How does Smiling Elevate our Mood?</h1>
 
       <p>

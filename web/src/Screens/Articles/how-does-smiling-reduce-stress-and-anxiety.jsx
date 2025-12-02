@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function HowDoesSmilingReduceStressAndAnxiety() {
   return (
-    <div className="container-box mt-5 mb-5">
+    <div className="container-box mt-5 mb-5 smile-page">
       <h1>How Does Smiling Reduce Stress and Anxiety?</h1>
 
       <p>
