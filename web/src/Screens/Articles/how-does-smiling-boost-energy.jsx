@@ -7,7 +7,7 @@ export default function HowDoesSmilingBoostEnergy() {
       <h1>How Does Smiling Boost Energy?</h1>
 
       <p>
-        Smiling boosts energy by triggering <strong>physiological and psychological changes</strong> 
+        Smiling boosts energy by triggering <strong>physiological and psychological changes </strong> 
         in your body and brain that make you feel more <strong>awake, alert, and motivated</strong>.
         Even subtle or intentional smiling creates an upward shift in energy levels.
       </p>

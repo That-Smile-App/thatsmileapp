@@ -1,4 +1,5 @@
 import React from 'react';
+import "./smile-pages.css";
 
 export default function HowDoesSmilingMakeYouMoreGrateful() {
   return (

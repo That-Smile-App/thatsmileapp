@@ -1,0 +1,117 @@
+/* ---------- GLOBAL PAGE STYLING ---------- */
+
+.container-box {
+  line-height: 1.65;
+  font-size: 18px;
+  color: #222;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Headings */
+.container-box h1 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.container-box h2,
+.container-box h3,
+.container-box h4 {
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.container-box h2 {
+  font-size: 22px;
+}
+
+.container-box h3 {
+  font-size: 20px;
+}
+
+.container-box h4 {
+  font-size: 19px;
+}
+
+/* Paragraphs */
+.container-box p {
+  margin: 12px 0;
+}
+
+/* Lists */
+.container-box ul {
+  margin: 10px 0 20px 30px;
+}
+
+.container-box ul li {
+  margin-bottom: 8px;
+}
+
+/* HR lines */
+.container-box hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 30px 0;
+}
+
+/* ---------- TABLE STYLING ---------- */
+
+.container-box table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0 25px;
+}
+
+.container-box table th {
+  text-align: left;
+  font-weight: 600;
+  padding: 8px 0;
+}
+
+.container-box table td {
+  padding: 6px 0;
+  vertical-align: top;
+}
+
+/* Optional: add subtle spacing between table rows */
+.container-box table tr td:first-child {
+  width: 35%;
+}
+
+/* ---------- SOURCE LABELS ---------- */
+.container-box p strong {
+  font-weight: 600;
+}
+
+.container-box em {
+  font-style: italic;
+}
+
+/* ---------- SPACING FOR EMOJI HEADERS ---------- */
+.container-box h3,
+.container-box h4 {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Optional extra style for emojis */
+.container-box h3::before,
+.container-box h4::before {
+  transform: translateY(1px);
+}
+
+/* ---------- KEYS TO REMEMBER BOX (optional future upgrade) ----------
+You *can* add a highlighted box, but your screenshots do not show one.
+Leaving commented in case you want later. */
+/*
+.keys-box {
+  background: #f9f9f9;
+  border-left: 4px solid #ffbf47;
+  padding: 15px 20px;
+  margin-top: 25px;
+  border-radius: 6px;
+}
+*/
