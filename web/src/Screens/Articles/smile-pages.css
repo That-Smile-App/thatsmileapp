@@ -163,3 +163,20 @@
 .smile-page .text-xl::before {
   line-height: 1;
 }
+
+/**************************************
+  MOBILE SIDE PADDING
+***************************************/
+@media (max-width: 768px) {
+  .smile-page {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* Optional: tighten tables on phones */
+  .smile-page table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+  }
+}

@@ -3,7 +3,7 @@ import "./smile-pages.css";
 
 export default function HowDoesSmilingBoostEnergy() {
   return (
-    <div className="container-box mt-5 mb-5 smile-page">  ">
+    <div className="container-box mt-5 mb-5 smile-page">
 
       <h1>How Does Smiling Boost Energy?</h1>
 
