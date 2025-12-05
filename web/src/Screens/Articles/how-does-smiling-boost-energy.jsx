@@ -5,7 +5,7 @@ export default function HowDoesSmilingBoostEnergy() {
   return (
     <div className="container-box mt-5 mb-5 smile-page">
 
-      <h1>How Does Smiling Boost Energy?</h1>
+      <h1>How does Smiling Boost Energy?</h1>
 
       <p>
         Smiling boosts energy by triggering <strong>physiological and psychological changes </strong> 
@@ -59,7 +59,7 @@ export default function HowDoesSmilingBoostEnergy() {
       </ul>
 
       <p>
-        By reducing stress, smiling frees up <strong>mental and physical energy</strong>
+        By reducing stress, smiling frees up <strong>mental and physical energy </strong>
         that you can redirect toward focus, creativity, and productivity.
       </p>
 
@@ -176,6 +176,8 @@ export default function HowDoesSmilingBoostEnergy() {
         <strong>Smiling gives you a natural energy boost</strong> by improving brain chemistry,
         calming stress responses, enhancing oxygen flow, and promoting energizing social interactions.
         Even a small smile can shift your internal state from drained to recharged.
+      </p>
+      <p>
         <strong> That Smile App is here to help give you an energy boost.</strong>
       </p>
 

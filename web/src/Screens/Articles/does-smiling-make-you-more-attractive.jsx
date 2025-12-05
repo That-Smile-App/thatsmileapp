@@ -9,7 +9,7 @@ export default function DoesSmilingMakeYouMoreAttractive() {
 
       <p>
         Smiling is powerful in building attraction by sending powerful nonverbal signals that communicate 
-        <strong>confidence, warmth, openness, and trustworthiness</strong> — all traits that humans are biologically 
+        <strong> confidence, warmth, openness, and trustworthiness</strong> — all traits that humans are biologically 
         and psychologically drawn to. Whether in romantic, social, or professional settings, smiling makes you 
         more appealing and emotionally magnetic.
       </p>
@@ -56,7 +56,7 @@ export default function DoesSmilingMakeYouMoreAttractive() {
 
       <p><strong>📚 Source:</strong><br />
         Todorov et al. (2008) – Found that positive facial expressions like smiling influence 
-        <strong>emotional and neurological responses</strong>, affecting how attractive and trustworthy a person appears.
+        <strong> emotional and neurological responses</strong>, affecting how attractive and trustworthy a person appears.
       </p>
 
       <hr />
@@ -79,7 +79,7 @@ export default function DoesSmilingMakeYouMoreAttractive() {
 
       <p><strong>📚 Study:</strong><br />
         Krumhuber & Manstead (2009) found that Duchenne smiles had a 
-        <strong>stronger impact</strong> on perceived attractiveness and emotional authenticity 
+        <strong> stronger impact</strong> on perceived attractiveness and emotional authenticity 
         than non-Duchenne (fake) smiles.
       </p>
 
@@ -102,7 +102,7 @@ export default function DoesSmilingMakeYouMoreAttractive() {
 
       <p><strong>📚 Research Insight:</strong><br />
         Studies on nonverbal communication show that smiling increases perceived 
-        <strong>confidence and leadership</strong>, both attractive qualities.
+        <strong> confidence and leadership</strong>, both attractive qualities.
       </p>
 
       <hr />
@@ -165,14 +165,16 @@ export default function DoesSmilingMakeYouMoreAttractive() {
       <h3>🔑 Keys to Remember</h3>
 
       <p>
-        <strong>Smiling is one of the most attractive things you can do.</strong>  
+        <strong>Smiling is one of the most attractive things you can do. </strong>  
         Smiling makes you more likable, more genuine, and more emotionally engaging — all of which 
         trigger deep, instinctive attraction in others.
       </p>
 
       <p>
         A genuine smile can say,  
-        “I’m happy, confident, and I enjoy being with you” — and that’s magnetic.  
+        “I’m happy, confident, and I enjoy being with you” — and that’s magnetic.
+      </p>
+      <p>   
         <strong>That Smile App is here to help make you more attractive.</strong>
       </p>
 

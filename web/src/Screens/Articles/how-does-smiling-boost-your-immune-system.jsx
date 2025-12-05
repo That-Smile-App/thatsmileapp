@@ -9,8 +9,8 @@ export default function HowDoesSmilingBoostYourImmuneSystem() {
 
       <p>
         Smiling boosts your immune system by reducing stress, enhancing mood-regulating chemicals,
-        and improving the body’s physiological responses — all of which <strong>help</strong> your
-        immune system work more efficiently to fight illness and maintain overall health.
+        and improving the body’s physiological responses — all of which <strong>help your
+        immune system </strong> work more efficiently to <strong>fight illness and maintain overall health.</strong>
       </p>
 
       <p>Here’s how smiling supports immune function, backed by research:</p>
@@ -62,7 +62,7 @@ export default function HowDoesSmilingBoostYourImmuneSystem() {
       </ul>
 
       <p><strong>📚 Study Insight:</strong><br />
-        Cohen et al. (2006) found that individuals who experienced more <strong>positive emotions</strong>
+        Cohen et al. (2006) found that individuals who experienced more <strong>positive emotions </strong>
         were <strong>less likely to get sick</strong> after being exposed to a common cold virus.
       </p>
 
@@ -158,10 +158,11 @@ export default function HowDoesSmilingBoostYourImmuneSystem() {
       <p>
         <strong>
         Smiling supports your immune system by helping your body stay balanced, calm, and emotionally strong.
-        </strong>
-        Even when you don’t feel like smiling, choosing to smile can still activate these protective effects —
+        </strong> Even when you don’t feel like smiling, choosing to smile can still activate these protective effects —
         and over time, build real improvements in your physical health.
-        <strong> That Smile App is here to help boost your immune system.</strong>
+        </p>
+        <p>
+         <strong> That Smile App is here to help boost your immune system.</strong>
       </p>
 
     </div>

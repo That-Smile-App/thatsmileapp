@@ -5,7 +5,7 @@ export default function HowDoesSmilingMakeYouMoreGrateful() {
   return (
     <div className="container-box mt-5 mb-5 smile-page">
 
-      <h1>How Does Smiling Make You More Grateful?</h1>
+      <h1>How does Smiling Make You More Grateful?</h1>
 
       <p>
         Smiling can make you feel more <strong>grateful</strong> by influencing your brain,
@@ -71,7 +71,7 @@ export default function HowDoesSmilingMakeYouMoreGrateful() {
 
       <p>
         The <strong>Facial Feedback Hypothesis</strong> suggests that
-        <strong> smiling doesn’t just reflect how you feel — smiling changes how you feel.</strong>
+        <strong> smiling doesn’t just reflect how you feel — smiling changes how you feel. </strong>
         When you smile:
       </p>
 
@@ -98,8 +98,8 @@ export default function HowDoesSmilingMakeYouMoreGrateful() {
 
       <ul>
         <li>
-          Positive emotions (like those sparked by smiling) <strong>widen your attention</strong>
-          and open your mind to more possibilities.
+          Positive emotions (like those sparked by smiling) <strong>widen your attention </strong>
+          and <strong>open your mind</strong> to more possibilities.
         </li>
         <li>
           This helps you see the <strong>bigger picture</strong>, recognize <strong>good moments</strong>,
@@ -179,6 +179,8 @@ export default function HowDoesSmilingMakeYouMoreGrateful() {
         <b>Smiling helps you become more grateful</b> by shifting your emotional state,
         engaging your brain's reward systems, and encouraging a broader, more positive outlook.
         Smiling primes your mind to <strong>notice and appreciate the good</strong> — both big and small.
+      </p>
+      <p>
         <b>That Smile App is here to help you express gratitude.</b>
       </p>
 

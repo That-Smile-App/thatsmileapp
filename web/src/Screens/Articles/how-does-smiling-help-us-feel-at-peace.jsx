@@ -4,7 +4,7 @@ import "./smile-pages.css";
 export default function HowDoesSmilingHelpUsFeelAtPeace() {
   return (
     <div className="container-box mt-5 mb-5 smile-page">
-      <h1>How Does Smiling Help Us Feel at Peace?</h1>
+      <h1>How does Smiling Help Us Feel at Peace?</h1>
 
       <p>
         Smiling makes us feel at peace by activating the body’s <strong>calming systems</strong>, shifting
@@ -187,6 +187,8 @@ export default function HowDoesSmilingHelpUsFeelAtPeace() {
         <strong>Smiling helps us feel at peace</strong> by calming the nervous system, reducing stress,
         and signaling to the brain that we are safe. Smiling is a small physical action that carries
         powerful emotional weight — not just for you, but for those around you.
+      </p>
+      <p>
         <strong> That Smile App is here to help you feel peace.</strong>
       </p>
     </div>

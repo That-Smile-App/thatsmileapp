@@ -10,7 +10,7 @@ export default function CanSmilingHelpYouLiveLonger() {
       <p>
         Smiling may help you live longer by reducing stress, improving heart health, strengthening
         social bonds, and promoting a more optimistic outlook — all of which are linked to 
-        <strong>greater longevity</strong> in scientific studies. In short, smiling isn’t just a 
+        <strong> greater longevity</strong> in scientific studies. In short, smiling isn’t just a 
         sign of happiness — it’s a <strong>tool for long-term health and survival.</strong>
       </p>
 
@@ -56,7 +56,7 @@ export default function CanSmilingHelpYouLiveLonger() {
 
       <p><strong>📚 Study:</strong><br />
       University of Maryland (2005) found that laughter (which usually includes smiling) improves 
-      <strong>blood vessel dilation</strong>, similar to the effects of aerobic exercise.
+      <strong> blood vessel dilation</strong>, similar to the effects of aerobic exercise.
       </p>
 
       <hr />
@@ -163,7 +163,10 @@ export default function CanSmilingHelpYouLiveLonger() {
       <p>
         <strong>Smiling is a longevity superpower.</strong> Smiling calms your nervous system, protects your heart, 
         deepens your social bonds, and helps you bounce back from life’s challenges — all key ingredients in 
-        living a longer, healthier life. <strong>That Smile App is here to help you live a longer, healthier life.</strong>
+        living a longer, healthier life.
+      </p>
+      <p>
+         <strong>That Smile App is here to help you live a longer, healthier life.</strong>
       </p>
 
     </div>

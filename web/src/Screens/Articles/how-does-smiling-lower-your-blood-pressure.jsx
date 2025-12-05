@@ -36,7 +36,7 @@ export default function HowDoesSmilingLowerYourBloodPressure() {
       </p>
 
       <p>
-        📚 <strong>Study:</strong>  
+        📚 <strong>Study: </strong>  
         Kraft & Pressman (2012) found that participants who smiled during stressful tasks recovered{" "}
         <strong>more quickly</strong> and had <strong>lower heart rates</strong> than those with neutral expressions. This cardiovascular
         benefit is linked to <strong>lower blood pressure</strong> over time.
@@ -61,7 +61,7 @@ export default function HowDoesSmilingLowerYourBloodPressure() {
       </p>
 
       <p>
-        📚 <strong>Source:</strong>  
+        📚 <strong>Source: </strong>  
         Pressman & Cohen (2005) found that <strong>positive emotional expressions</strong>, like smiling and laughter, help
         protect against the cardiovascular effects of stress.
       </p>
@@ -100,7 +100,7 @@ export default function HowDoesSmilingLowerYourBloodPressure() {
       </ul>
 
       <p>
-        📚 <strong>Study:</strong>  
+        📚 <strong>Study: </strong>  
         A 2005 study at the University of Maryland Medical Center found that watching a funny movie improved
         <strong> blood vessel function</strong>, <strong>boosting blood flow by up to 22%</strong>, while stressful clips narrowed vessels —{" "}
         <em>a risk factor for hypertension.</em>
@@ -150,6 +150,8 @@ export default function HowDoesSmilingLowerYourBloodPressure() {
 
       <p>
         Even a small smile during stressful moments can have measurable cardiovascular benefits over time.{" "}
+      </p>
+      <p>
         <strong>That Smile App is here to help lower your blood pressure.</strong>
       </p>
     </div>

@@ -92,7 +92,7 @@ export default function WhatHappensToYourBrainWhenYouSmile() {
       <ul>
         <li>
           Smiling lights up the <strong>amygdala</strong> (emotion center) and improves the brain’s ability to
-          <strong>regulate emotions</strong>.
+          <strong> regulate emotions</strong>.
         </li>
         <li>This helps you respond to challenges more calmly and with greater emotional resilience.</li>
       </ul>
@@ -138,8 +138,10 @@ export default function WhatHappensToYourBrainWhenYouSmile() {
       <p>
         When you smile, your brain releases <strong>feel-good chemicals</strong>, lowers stress, and activates emotional
         centers that boost your mood and well-being—even if the smile is forced. Smiling is a fast, natural way to
-        create a positive shift in both your brain and your body. <strong>That Smile App is here to help you improve
-        your health through smiling more.</strong>
+        create a positive shift in both your brain and your body.
+      </p>
+      <p>
+        <strong>That Smile App is here to help you improve your happiness and health through smiling more.</strong>
       </p>
     </div>
   );

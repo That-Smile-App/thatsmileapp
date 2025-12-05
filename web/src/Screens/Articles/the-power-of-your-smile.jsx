@@ -114,7 +114,7 @@ export default function ThePowerOfYourSmile() {
         both your life and the lives of those around you.
       </p>
       <p className="font-semibold">
-        Smiling more makes your life better. That Smile App is here to help you improve your life and health
+        Smiling more makes your life better. That Smile App is here to help you improve your life, happiness and health
         through smiling more!
       </p>
     </div>

@@ -16,7 +16,7 @@ export default function HowDoesSmilingImproveRelationships() {
 
       {/* Section 1 */}
       <hr />
-      <h2>😊 1. Smiling Builds Trust and Warmth</h2>
+      <h4>😊 1. Smiling Builds Trust and Warmth</h4>
 
       <p>
         When you smile genuinely (especially a <strong>Duchenne smile</strong> — which involves both the mouth and eyes), 
@@ -37,7 +37,7 @@ export default function HowDoesSmilingImproveRelationships() {
 
       {/* Section 2 */}
       <hr />
-      <h2>🧠 2. Smiling Activates Mirror Neurons and Emotional Contagion</h2>
+      <h4>🧠 2. Smiling Activates Mirror Neurons and Emotional Contagion</h4>
 
       <p>
         Smiles are <strong>contagious</strong> — when you smile, others tend to smile back. This is due to 
@@ -59,7 +59,7 @@ export default function HowDoesSmilingImproveRelationships() {
 
       {/* Section 3 */}
       <hr />
-      <h2>🗣️ 3. Smiling Improves Communication</h2>
+      <h4>🗣️ 3. Smiling Improves Communication</h4>
 
       <p>Smiling makes conversations more effective by:</p>
 
@@ -94,7 +94,7 @@ export default function HowDoesSmilingImproveRelationships() {
 
       {/* Section 5 */}
       <hr />
-      <h2>💬 5. Smiling Strengthens First Impressions and Ongoing Bonds</h2>
+      <h4>💬 5. Smiling Strengthens First Impressions and Ongoing Bonds</h4>
 
       <p>
         Whether you’re meeting someone for the first time or reconnecting, smiling makes you more:
@@ -115,7 +115,7 @@ export default function HowDoesSmilingImproveRelationships() {
 
       {/* Summary */}
       <hr />
-      <h2>✅ Summary: How Smiling Improves Relationships</h2>
+      <h4>✅ Summary: How Smiling Improves Relationships</h4>
 
       <table className="summary-table">
         <thead>
@@ -127,7 +127,7 @@ export default function HowDoesSmilingImproveRelationships() {
         <tbody>
           <tr>
             <td>Builds trust</td>
-            <td><a href="#">Makes</a> others feel safe and accepted</td>
+            <td>Makes others feel safe and accepted</td>
           </tr>
           <tr>
             <td>Encourages emotional connection</td>
@@ -150,7 +150,7 @@ export default function HowDoesSmilingImproveRelationships() {
 
       {/* Keys to Remember */}
       <hr />
-      <h2>🔑 Keys to Remember</h2>
+      <h4>🔑 Keys to Remember</h4>
 
       <p>
         <strong>Smiling is a relationship-building superpower.</strong> Smiling silently communicates warmth, safety, 

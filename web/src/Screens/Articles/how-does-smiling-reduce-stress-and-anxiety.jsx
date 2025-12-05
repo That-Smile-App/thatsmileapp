@@ -4,18 +4,18 @@ import "./smile-pages.css";
 export default function HowDoesSmilingReduceStressAndAnxiety() {
   return (
     <div className="container-box mt-5 mb-5 smile-page">
-      <h1>How Does Smiling Reduce Stress and Anxiety?</h1>
+      <h1>How does Smiling Reduce Stress and Anxiety?</h1>
 
       <p>
         Smiling reduces stress and anxiety by sending powerful signals to your brain and body that 
-        promote <strong>calm, positive emotions</strong>, and even <strong>shift your physiological response</strong> 
+        promote <strong>calm, positive emotions</strong>, and even <strong>shift your physiological response </strong> 
         to stress. Here's how it works—backed by science:
       </p>
 
       <hr />
 
       {/* Section 1 */}
-      <h2>🥰 1. Smiling Activates the Parasympathetic Nervous System</h2>
+      <h4>🥰 1. Smiling Activates the Parasympathetic Nervous System</h4>
 
       <ul>
         <li>
@@ -38,7 +38,7 @@ export default function HowDoesSmilingReduceStressAndAnxiety() {
       <hr />
 
       {/* Section 2 */}
-      <h2>🧠 2. Smiling Triggers the Release of Feel-Good Neurochemicals</h2>
+      <h4>🧠 2. Smiling Triggers the Release of Feel-Good Neurochemicals</h4>
 
       <ul>
         <li>Smiling prompts your brain to release:</li>
@@ -60,7 +60,7 @@ export default function HowDoesSmilingReduceStressAndAnxiety() {
       <hr />
 
       {/* Section 3 */}
-      <h2>💡 3. Facial Feedback Loop: Your Face Talks to Your Brain</h2>
+      <h4>💡 3. Facial Feedback Loop: Your Face Talks to Your Brain</h4>
 
       <ul>
         <li>
@@ -76,7 +76,7 @@ export default function HowDoesSmilingReduceStressAndAnxiety() {
       <hr />
 
       {/* Section 4 */}
-      <h2>🤝 4. Smiling Improves Social Interactions — Reducing Social Anxiety</h2>
+      <h4>🤝 4. Smiling Improves Social Interactions — Reducing Social Anxiety</h4>
 
       <ul>
         <li>Smiling makes others more likely to respond positively to you.</li>
@@ -96,7 +96,7 @@ export default function HowDoesSmilingReduceStressAndAnxiety() {
       <hr />
 
       {/* Summary */}
-      <h2>✅ Summary: How Smiling Reduces Stress and Anxiety</h2>
+      <h4>✅ Summary: How Smiling Reduces Stress and Anxiety</h4>
 
       <table className="summary-table">
         <thead>
@@ -128,12 +128,14 @@ export default function HowDoesSmilingReduceStressAndAnxiety() {
       <hr />
 
       {/* Keys to remember */}
-      <h2>🔑 Keys to Remember</h2>
+      <h4>🔑 Keys to Remember</h4>
 
       <p>
         <strong>Smiling helps reduce stress and anxiety</strong> by calming the body, elevating mood, and 
         telling your brain you're okay—even during tough moments. Smiling is a simple, natural tool for 
         emotional regulation you can use anytime, anywhere. 
+      </p>
+      <p> 
         <strong> That Smile App is here to help you reduce stress and anxiety.</strong>
       </p>
 

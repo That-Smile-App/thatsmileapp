@@ -66,13 +66,15 @@ export default function HowLongDoYouHaveToSmileToReceiveHealthBenefits() {
         <li>
           <strong>Facial Feedback Loop</strong><br />
           Smiling sends signals to your brain that influence how you feel — even fake or forced smiles can 
-          <strong>“trick” your brain</strong> into releasing mood-boosting chemicals.
+          <strong> “trick” your brain</strong> into releasing mood-boosting chemicals.
         </li>
+        <br></br>
 
         <li>
           <strong>Instant Nervous System Response</strong><br />
           A quick smile can activate the <strong>parasympathetic nervous system</strong>, helping slow heart rate and reduce stress.
         </li>
+        <br></br>
 
         <li>
           <strong>Emotion Shift Through Intention</strong><br />
@@ -111,6 +113,8 @@ export default function HowLongDoYouHaveToSmileToReceiveHealthBenefits() {
 
       <p>
         Building a habit of smiling is an easy, natural way to shift your emotional state and improve well-being.  
+      </p>
+      <p>
         <strong>That Smile App is here to help you smile more and feel better. 😊</strong>
       </p>
 

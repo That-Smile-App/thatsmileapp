@@ -8,8 +8,8 @@ export default function HowDoesSmilingElevateOurMood() {
 
       <p>
         Smiling elevates our mood by triggering powerful biological and psychological responses that 
-        <strong> shift the brain into a more positive, relaxed, and emotionally balanced state.</strong> 
-        Even when you're not feeling particularly happy, <strong>the act of smiling can create a real change</strong> 
+        <strong> shift the brain into a more positive, relaxed, and emotionally balanced state. </strong> 
+        Even when you're not feeling particularly happy, <strong>the act of smiling can create a real change </strong> 
         in how you feel — thanks to how your body and brain are wired. Here’s a breakdown of how that works, 
         with research to back it up:
       </p>
@@ -153,8 +153,10 @@ export default function HowDoesSmilingElevateOurMood() {
         you feel lighter, calmer, and more positive almost instantly. 
       </p>
       <p>
-        Smiling isn’t just a reflection of happiness — <strong>smiling actively helps create happiness.</strong>  
-        The Smile App is here to help boost your mood.
+        Smiling isn’t just a reflection of happiness — <strong>smiling actively helps create happiness.</strong>
+      </p>
+      <p>
+        <strong>The Smile App is here to help boost your mood.</strong>
       </p>
     </div>
   );

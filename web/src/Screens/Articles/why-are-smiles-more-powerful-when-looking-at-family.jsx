@@ -142,8 +142,8 @@ export default function WhyAreSmilesMorePowerfulWhenLookingAtFamily() {
         feel like home.
       </p>
       <p style={{ marginTop: "12px" }}>
-        <strong>That Smile App</strong> is here to help strengthen and nurture
-        those meaningful family connections.
+        <strong>That Smile App is here to help strengthen and nurture
+        those meaningful family connections.</strong>
       </p>
     </div>
   );

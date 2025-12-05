@@ -153,7 +153,10 @@ export default function HowDoesSmilingIncreaseHappiness() {
           and foster connection.
         </strong>
         {' '}Even if smiling starts as a simple facial movement, the emotional benefits are real and measurable.
-        Smiling isn’t just a reflection of happiness—<strong>smiling actively helps create happiness.</strong> That Smile App is here to help you feel happier.
+        Smiling isn’t just a reflection of happiness—<strong>smiling actively helps create happiness.</strong>
+      </p>
+      <p>
+        <strong> That Smile App is here to help you feel happier.</strong>
       </p>
     </div>
   );

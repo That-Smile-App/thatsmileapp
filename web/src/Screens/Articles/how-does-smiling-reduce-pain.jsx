@@ -8,7 +8,7 @@ export default function HowDoesSmilingReducePain() {
       <h1>How does Smiling Reduce Pain?</h1>
 
       <p>
-        Smiling reduces pain by triggering <strong>biological and psychological responses</strong> 
+        Smiling reduces pain by triggering <strong>biological and psychological responses </strong> 
         that help your brain and body cope more effectively with discomfort. Even a forced 
         or intentional smile can activate <strong>pain-relief pathways</strong>, lower perceived pain 
         intensity, and help shift your focus away from the discomfort.
@@ -159,9 +159,11 @@ export default function HowDoesSmilingReducePain() {
       <h3>🔑 Keys to Remember</h3>
 
       <p>
-        <strong>Smiling doesn’t just make you feel better — it can actually help you hurt less.</strong> 
+        <strong>Smiling doesn’t just make you feel better — it can actually help you hurt less. </strong> 
         Whether you're dealing with physical pain or emotional discomfort, a simple smile can 
-        activate your body's natural healing chemistry and reduce how intensely you experience pain.  
+        activate your body's natural healing chemistry and reduce how intensely you experience pain.
+      </p>
+      <p>
         <strong> That Smile App is here to help ease pain.</strong>
       </p>
 
