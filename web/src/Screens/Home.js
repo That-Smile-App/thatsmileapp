@@ -58,8 +58,12 @@ function Home() {
               </div>
 
               <div className="d-flex justify-content-center gap-xl-5 gap-lg-4 gap-md-3 gap-3">
-                <img src={appStore} alt="My Image" className="img-fluid" />
-                <img src={playStore} alt="My Image" className="img-fluid" />
+                <a href="https://apps.apple.com/app/id6468306501" target="_blank" rel="noopener noreferrer">
+                  <img src={appStore} alt="App Store" className="img-fluid" />
+                </a>
+                <a href="https://play.google.com/store/apps/details?id=com.thatsmile" target="_blank" rel="noopener noreferrer">
+                  <img src={playStore} alt="Play Store" className="img-fluid" />
+                </a>
               </div>
             </div>
           </div>
