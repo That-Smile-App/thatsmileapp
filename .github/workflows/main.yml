@@ -1,0 +1,32 @@
+name: Latest Build Review Labeler
+
+on:
+  project_item:
+    types: [moved, converted]
+
+jobs:
+  apply_dev_label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add dev-ready label on column match
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const item = context.payload.project_item;
+            
+            // Extract column name and content type
+            const columnName = item.project_column_name;
+            const isIssue = item.content_type === 'Issue';
+
+            if (isIssue && columnName === "Latest Build Review") {
+              const issueNumber = item.content_node.number;
+              
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                labels: ['dev-ready']
+              });
+              
+              console.log(`Successfully added 'dev-ready' to Issue #${issueNumber}`);
+            }
